@@ -6,3 +6,5 @@ ipykernel
 
 pandas
 matplotlib
+
+fastapi
